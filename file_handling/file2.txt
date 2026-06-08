@@ -1,0 +1,22 @@
+the is file 2 content:
+the is line no: 2
+the is line no: 3                  
+the is line no: 4
+the is line no: 5
+the is line no: 6
+the is line no: 7
+the is line no: 8
+the is line no: 9
+the is line no: 10
+the is append data
+the is file 1 content:
+the is line no: 2
+the is line no: 3
+the is line no: 4
+the is line no: 5
+the is line no: 6
+the is line no: 7
+the is line no: 8
+the is line no: 9
+the is line no: 10
+ welcome to file operations
